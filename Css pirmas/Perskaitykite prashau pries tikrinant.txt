@@ -1,0 +1,23 @@
+Laba (nežinau kada skaitysit, gal diena tikriausiai),
+
+nebesusitvarkau su <div> elementais, niekaip nesuprantu, kodėl jie man tokie po įterpimo gaunasi,
+ką ne taip darau. 
+
+1) Jei <div> nustatau tą, kas parašyta užduotyje -
+
+ background-color: #4775d1;
+ height: 200px;
+ width: 50%;	
+ tai kas gaunasi, niekaip nesutampa su tekstu
+
+
+Jei dar <div> elemente panaikinu
+display:inline-block;
+tekstas sulipa vienas ant kito.
+
+Jei iš <div> ištrinu 
+display:inline-block;
+dingsta background-color,
+
+Gal aš išviso neteisingai supratau kažkurią užduoties dalį.? 
+
